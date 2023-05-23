@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "zksync-crypto": "file:/Users/oker/scf/gopath/src/github.com/okx/zkdex/sdk/zksync-crypto"
+    "ethers": "^5.6.9",
+    "zksync-crypto": "file:/Users/lvcong/rust/zkdex/sdk/zksync-crypto"
   },
   "type": "module",
   "license": "ISC"
