@@ -1,0 +1,14 @@
+{
+  "name": "1223",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "zksync-crypto": "file:/Users/oker/scf/gopath/src/github.com/okx/zkdex/sdk/zksync-crypto"
+  },
+  "type": "module",
+  "license": "ISC"
+}
